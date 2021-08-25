@@ -1,0 +1,1 @@
+select * from `modern-data-stack-demo.demo_dataset.issues` where comments > 2
